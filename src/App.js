@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hola
+          Este es un cambio de la rama 1
         </a>
       </header>
     </div>
