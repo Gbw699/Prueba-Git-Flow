@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Este es un cambio de la rama 1
+          Este es otro cambio de la rama 1
           esto es un cambio de la rama 2
         </a>
       </header>
